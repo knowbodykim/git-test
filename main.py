@@ -1,1 +1,1 @@
-k
+print "hello, World!"
